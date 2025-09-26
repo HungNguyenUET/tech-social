@@ -1,3 +1,5 @@
+Đổi cấu hình trong src/main/resources/application.yaml trước khi test  
+  
 Test với Postman
 
 1. Đăng ký  
